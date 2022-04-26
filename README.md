@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 <h1 align="center">Hi 👋, I'm Pushkar kumar</h1>
 <h3 align="center">A Passionate Full Stack | MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://demotix.com/wp-content/uploads/2019/06/How-to-Hire-Web-Developer.gif">
